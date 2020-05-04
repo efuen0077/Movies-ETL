@@ -17,3 +17,4 @@ For this task, assume that the updated data will stay in the same formats: Wikip
 
 ### Analysis
 
+After extracting, transforming, and loading the data so that it is readable for the Hackathon participants, quite a few analyses can be performed with this clean data. One can view the data in SQL to determine which movies would be the most popular according to the ratings.
