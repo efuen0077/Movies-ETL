@@ -13,7 +13,7 @@ For this task, assume that the updated data will stay in the same formats: Wikip
 5. Document any assumptions that are being made. Use try-except blocks to account for unforeseen problems that may arise with new data.
 
 ### Final Code
-[config.py.zip](https://github.com/efuen0077/Movies-ETL/files/4572613/config.py.zip)
+
 
 ### Analysis
 
